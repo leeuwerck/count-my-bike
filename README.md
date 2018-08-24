@@ -1,6 +1,6 @@
 # Count My Bike
 
-Nice visualisation of Bike counter in Brussel.
+Nice visualisation of Bike counter in Brussels.
 
 ## Data source
 
