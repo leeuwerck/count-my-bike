@@ -96,13 +96,13 @@
                         <picture>
                             <img src="" alt="">
                         </picture>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
+                        <p>Cycling is good for your health, despite the air pollution. It lowers the cost of social security.</p>
                     </li>
                     <li>
                         <picture>
                             <img src="" alt="">
                         </picture>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
+                        <p>It improves mobility, for everyone. A reduction of 10 percent of the car traffic results in 40 percent less traffic jams.</p>
                     </li>
                 </ul>
             </div>
