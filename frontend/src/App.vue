@@ -9,9 +9,10 @@
                     </span>
                 </h1>
                 <p class="intro">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+                    Cycling is a way to reconnect with your inner happy child... And it is also a response to adult questions.
+                    How to get yourself on time where you need to be, while staying fit and have a minimal impact on the environment.
+
                 </p>
                 <ul class="stats-list">
                     <li class="day-counter">
