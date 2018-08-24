@@ -90,7 +90,7 @@
                         <picture>
                             <img src="" alt="">
                         </picture>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
+                        <p>Cycling brings pleasure. It is one of the activities that rely on your inner ear to measure acceleration and provide balance, like <a href="https://youtu.be/Xn87-mcnoVc">rollerskating</a>,skiing or windsurfing.</p>
                     </li>
                     <li>
                         <picture>
